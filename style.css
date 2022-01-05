@@ -15,11 +15,13 @@
 .btn, p{
     font-family: 'Poppins', sans-serif; 
     padding: 10px 0px;
+    text-align: justify;
     
 }
 .flex-cont{
     display: flex;
     margin: 0;
+    width: 90%;
 }
 .top-font{
     font-family: 'Abril Fatface', cursive;
@@ -44,4 +46,52 @@
     color: white;
     font-weight: 700px;
     border-radius: 7px;
+}
+.second{
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    padding-left: 15%;
+    font-size: 50px;
+    font-weight: 800;
+}
+.second-tab{
+    font-family: 'Cairo', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+.vmg{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px 50px;
+    border-radius: 30px;
+}
+.v{
+    background-color: rgb(160, 202, 198);
+}
+.m{
+    background-color: rgb(212, 133, 243);
+}
+.g{
+background-color: rgb(235, 125, 149);
+}
+.tab-img{
+    width: 40%;
+    padding-top: 40px;
+}
+.tab-two{
+    margin: 0px 250px 0px 140px;
+    width: 80% ;
+}
+.tab-three{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.third{
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+    
+}
+.third h1{
+    font-size: 50px;
+    font-weight: 800;
 }
