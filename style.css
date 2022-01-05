@@ -1,0 +1,47 @@
+.heading{
+    
+    padding-left: 5%;
+    padding-right: 5%;
+
+    margin: 50px 0px 0px 100px;
+    width: 50%;
+    font-size: 20px;
+    
+}
+.top-img{
+    width: 80%;
+    padding-left: 50px;
+}
+.btn, p{
+    font-family: 'Poppins', sans-serif; 
+    padding: 10px 0px;
+    
+}
+.flex-cont{
+    display: flex;
+    margin: 0;
+}
+.top-font{
+    font-family: 'Abril Fatface', cursive;
+    border-left: 7px solid;
+    border-color: crimson;
+    padding-left: 30px;
+    font-size: 40px;
+    border-radius: 5px;
+    
+}
+.pad{
+    padding-top: 5%;
+}
+.top-color{
+    color:rgb(243, 208, 53);
+}
+
+.btn{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-color: crimson;
+    color: white;
+    font-weight: 700px;
+    border-radius: 7px;
+}
