@@ -12,6 +12,10 @@
     width: 80%;
     padding-left: 50px;
 }
+.skill-img{
+    width: 100%;
+    padding-left: 50px;
+}
 .btn, p{
     font-family: 'Poppins', sans-serif; 
     padding: 10px 0px;
@@ -164,4 +168,46 @@ li{
     text-decoration: none;
     font-family: 'Cairo', sans-serif;
     font-size: 1.5em;
+}
+.skill-h{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Cairo', sans-serif;
+}
+.p-bar{
+    position: relative;
+    width: 500px;
+    height: 70px;
+    background: violet;
+    border-radius: 9px;
+    overflow: hidden;
+   
+}
+.p-fill{
+    width: 50%;
+    height: 100%;
+    background: rgb(225, 0, 255) ;
+}
+.p-text{
+    position: absolute;
+    top: 50%;
+    transform:translateY(-50%) ;
+    right: 5px;
+    font-family: 'Cairo', sans-serif;
+    color: white;
+}
+.skill{
+    font-family: 'Cairo', sans-serif;
+    color: rgb(231, 54, 92);
+}
+.skill-s{
+    padding: -5%;
+}
+.skill-sec{
+    background-image: url(images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    margin-top: -8%;
+    background-position: left;
+
 }
