@@ -81,8 +81,8 @@ background-color: rgb(235, 125, 149);
     padding-top: 40px;
 }
 .tab-two{
-    margin: 0px 80px 0px 200px;
-    width: 80%;
+    margin-left: 100px;
+    width: 90%;
     
 }
 .tab-three{
@@ -96,11 +96,10 @@ background-color: rgb(235, 125, 149);
     margin-right: 100px;
     
     
-    
 }
+
 .third h1{
     font-size: 50px;
-    
     
 }
 .bg2{
@@ -121,7 +120,48 @@ background-color: rgb(235, 125, 149);
     background-color: rgb(31, 1, 56);
     padding: 10px;
     color: rgb(255, 255, 255);
+    margin-top: 30px;
 }
-.footer p{
+.footer p {
     text-align: center;
+}
+
+.fot-22{
+    font-family: 'Dynalight', cursive;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(31, 1, 56)
+}
+.head{
+    position: absolute;
+    padding: 10px;
+    float: left ;
+    margin-left: 5%;
+    margin-top: 1px;
+    padding-bottom: 10px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 50px;
+    color: white;
+
+}
+.head-ul{
+    width: auto;
+    float: right;
+    margin-top: 10px;
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+.head-ul a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: 'Cairo', sans-serif;
+    font-size: 1.5em;
 }
