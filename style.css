@@ -16,7 +16,7 @@ body{
 }
 .skill-img{
     width: 100%;
-    padding-left: 30px;
+    
 }
 .btn, p{
     font-family: 'Poppins', sans-serif; 
@@ -214,6 +214,7 @@ li{
 }
 .skill-s{
     padding: -5%;
+    width: 80%;
 }
 .skill-sec{
     background-image: url(images/shapes/shape-4.png);
